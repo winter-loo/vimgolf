@@ -6,6 +6,8 @@
 qqyeA <C-R>=len('<C-R>0')<CR><Esc>+q15@qZZ
 ```
 
+Wow! I can use a function!
+
 Wow! `<C-R>0` interesting! I can insert content at a register when I am at the insert mode!
 
 
