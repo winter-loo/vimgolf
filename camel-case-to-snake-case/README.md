@@ -51,3 +51,7 @@ position also matches an uppercase character.
 ```
 :%s/\u.*:/_\l&<CR>&ZZ
 ```
+
+```
+:help & (Synonym for `:s` (repeat last substitute))
+```

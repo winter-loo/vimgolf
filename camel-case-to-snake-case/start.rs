@@ -1,0 +1,15 @@
+pub struct User {
+    id: u64,
+    firstName: String,
+    lastName: String,
+    age: u32,
+    phoneNumber: String,
+    address: String,
+    postalCode: String,
+    occupation: String,
+    company: String,
+    isActive: bool,
+    registrationDate: chrono::NativeDateTime,
+    lastLoginDate: chrono::NativeDateTime,
+    preferences: HashMap<String, String>,
+}
