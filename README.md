@@ -1,1 +1,9 @@
 # [VimGolf](https://www.vimgolf.com/)
+
+- [ ] [add_todo](./add_todo)
+- [ ] [append-leading-hyphen-count-to-each-line](./append-leading-hyphen-count-to-each-line)
+- [x] [camel-case-to-snake-case](./camel-case-to-snake-case)
+- [x] [changing-date-formats](./changing-date-formats)
+- [x] [generate-an-entry-for-each-month](./generate-an-entry-for-each-month)
+- [ ] [nested-json-flattener](./nested-json-flattener)
+- [ ] [reorganize-pokemon](./reorganize-pokemon)
