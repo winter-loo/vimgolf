@@ -8,3 +8,4 @@
 - [ ] [reorganize-pokemon](./reorganize-pokemon)
 - [ ] [markdown editing](./markdown-editing)
 - [ ] [string to int](./string-to-int/)
+- [ ] [remove adjacent duplicates](./remove-adjacent-duplicates/)
