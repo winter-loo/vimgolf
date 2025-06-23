@@ -4,7 +4,7 @@ Learn these words:
 paragraph
 word
 end
-forward
+forward/backward/up/down with ctrl
 till
 yank
 paste
@@ -14,14 +14,17 @@ visual
 inner
 go
 exit
+edit
 append
 replace
+undo
+mark
 ```
 
 And these characters:
 
 ```
-h j k l . ; ,
+h j k l : . ; , ! @
 ```
 
 You will master the vim philosophy.
