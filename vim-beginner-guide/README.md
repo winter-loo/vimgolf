@@ -19,12 +19,13 @@ append
 replace
 undo
 mark
+substitude
 ```
 
 And these characters:
 
 ```
-h j k l : . ; , ! @
+h j k l : . ; , ! %
 ```
 
 You will master the vim philosophy.
