@@ -10,3 +10,4 @@
 - [x] [string to int](./string-to-int/)
 - [x] [remove adjacent duplicates](./remove-adjacent-duplicates/)
 - [ ] [Generate a very basic Python constructor](./generate-a-very-basic-python-constructor)
+- [ ] [Java to JavaScript](./java-to-javascript)
