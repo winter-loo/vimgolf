@@ -1,0 +1,8 @@
+apple,fruit
+onion,vegetable
+cherry,fruit
+garlic,vegetable
+ginger,vegetable
+rose,flower
+orange,fruit
+jasmine,flower
